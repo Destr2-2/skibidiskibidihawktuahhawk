@@ -1,0 +1,14 @@
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\bin\Debug\preciost.exe
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\bin\Debug\preciost.pdb
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\obj\Debug\preciost.csprojResolveAssemblyReference.cache
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\obj\Debug\preciost.MainForm.resources
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\obj\Debug\preciost.csproj.GenerateResource.Cache
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\obj\Debug\preciost.exe
+C:\Users\moren\OneDrive\Documentos\SharpDevelop Projects\preciost\preciost\obj\Debug\preciost.pdb
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\bin\Debug\preciost.exe
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\bin\Debug\preciost.pdb
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\obj\Debug\preciost.csprojResolveAssemblyReference.cache
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\obj\Debug\preciost.MainForm.resources
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\obj\Debug\preciost.csproj.GenerateResource.Cache
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\obj\Debug\preciost.exe
+C:\Users\moren\OneDrive\Documentos\skibidiskibidihawktuahhawk\preciost\preciost\obj\Debug\preciost.pdb
